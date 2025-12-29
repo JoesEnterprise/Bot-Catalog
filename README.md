@@ -1,0 +1,1 @@
+Hello to those reading this, I first thank you for taking some time to fully read this text. This entire project is basically a catalog of my work during my time at Kodland, and I hope you can also use this code to implement later into your own bots to catalog your own work as well.
